@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+p {
+    margin-bottom: 0;
+}
+
+.container {
+    display: flex;
+    padding: 15px;
+}
+
+.container_big {
+    display: flex;
+    padding: 50px;
+}
+
+.center {
+    justify-content: center;
+    text-align: center;
+}
+
+.gray {
+    background: #D8D8D8;
+}
+
+.white {
+    background: #fff;
+    padding: 60px;
+}
+
+.blue {
+    background: #4A90E2;
+}
+
+.green {
+    background: #50E3C2;
+}
+
+.swamp {
+    background: #B8E986;
+}
+
+.yellow {
+    background: #F8E71C;
+}
+
+.blue_square {
+    height: 50px;
+    width: 50px;
+    background: #4A90E2;
+    margin: 10px 0px 10px 10px;
+}
